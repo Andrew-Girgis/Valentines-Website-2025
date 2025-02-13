@@ -19,3 +19,13 @@ The website is built using:
 - CSS3 (with animations and transitions)
 - Vanilla JavaScript
 - Intersection Observer API for scroll animations
+
+
+## 💖 Acknowledgments
+
+- Built with love for Valentine's Day
+- Thanks to the web development community for inspiration
+
+## 🎁 Support
+
+If you found this project cool, please give it a ⭐️!
